@@ -1,16 +1,16 @@
 ---
 title: >-
-  Job Patterns For Minorities And Women In Private Industry, 2015 EEO-1 NAICS-3
+  Job Patterns For Minorities And Women In Private Industry, 2015 EEO-1 NAICS-2
   Aggregate Report
-created: '2020-11-10T17:52:49.561236'
-modified: '2020-11-10T17:52:49.561245'
+created: '2020-11-10T17:52:49.420576'
+modified: '2020-11-10T17:52:49.420583'
 state: active
 type: dataset
 tags:
   - Eeoc Eeo1 Private Employer Eeo1 Survey 2015
 groups: []
 csv_url: >-
-  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2015/datasets/year15_nac3.txt
+  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2015/datasets/year15_nac2.txt
 json_url: ''
 layout: post
 

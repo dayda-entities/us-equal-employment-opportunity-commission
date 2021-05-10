@@ -1,16 +1,16 @@
 ---
 title: >-
-  Job Patterns For Minorities And Women In Private Industry, 2007 EEO-1 NAICS-4
+  Job Patterns For Minorities And Women In Private Industry, 2007 EEO-1 NAICS-3
   Aggregate Report
-created: '2020-11-10T17:52:40.694297'
-modified: '2020-11-10T17:52:40.694308'
+created: '2020-11-10T17:52:40.627048'
+modified: '2020-11-10T17:52:40.627059'
 state: active
 type: dataset
 tags:
   - Eeoc Eeo1 Private Employer Eeo1 Survey 2007
 groups: []
 csv_url: >-
-  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2007/downloads/nac4.zip
+  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2007/downloads/nac3.zip
 json_url: ''
 layout: post
 

@@ -1,16 +1,16 @@
 ---
 title: >-
   Job Patterns for Minorities and Women in State and Local Government, 2011
-  EEO-4 Data Table US by Type Report
-created: '2020-11-10T17:52:45.764561'
-modified: '2020-11-10T17:52:45.764571'
+  EEO-4 Data Table State by Function Report
+created: '2020-11-10T17:52:45.758514'
+modified: '2020-11-10T17:52:45.758525'
 state: active
 type: dataset
 tags:
   - Eeoc Eeo4 State And Local Eeo4 Survey 2011
 groups: []
 csv_url: >-
-  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo4/2011/datasets/E4_Data_table_US_by_type_2011.txt
+  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo4/2011/datasets/E4_STATE_BY_function_2011.txt
 json_url: ''
 layout: post
 

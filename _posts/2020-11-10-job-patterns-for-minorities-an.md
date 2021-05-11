@@ -1,9 +1,9 @@
 ---
 title: >-
   Job Patterns For Minorities And Women In Private Industry, 2010 EEO-1 CBSA
-  Aggregate by NAICS-3 Report
-created: '2020-11-10T17:52:44.753744'
-modified: '2020-11-10T17:52:44.753755'
+  Aggregate by NAICS-2 Report
+created: '2020-11-10T17:52:44.498188'
+modified: '2020-11-10T17:52:44.498195'
 state: active
 type: dataset
 tags:

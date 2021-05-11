@@ -1,16 +1,16 @@
 ---
 title: >-
   Job Patterns For Minorities And Women In Private Industry, 2011 EEO-1 State
-  Aggregate Report
-created: '2020-11-10T17:52:44.781951'
-modified: '2020-11-10T17:52:44.781962'
+  Aggregate by NAICS-2 Report
+created: '2020-11-10T17:52:45.103839'
+modified: '2020-11-10T17:52:45.103846'
 state: active
 type: dataset
 tags:
   - Eeoc Eeo1 Private Employer Eeo1 Survey 2011
 groups: []
 csv_url: >-
-  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2011/datasets/year11_state.txt
+  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2011/datasets/year11_state_nac2.txt
 json_url: ''
 layout: post
 

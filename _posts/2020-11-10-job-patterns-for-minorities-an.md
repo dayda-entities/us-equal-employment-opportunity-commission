@@ -1,16 +1,16 @@
 ---
 title: >-
-  Job Patterns For Minorities And Women In Private Industry, 2014 EEO-1 State
-  Aggregate by NAICS-3 Report
-created: '2020-11-10T17:52:48.551751'
-modified: '2020-11-10T17:52:48.551762'
+  Job Patterns for Minorities and Women in Elementary-Secondary Public Schools,
+  2012 EEO-5 Dataset - State Summary Report
+created: '2020-11-10T17:52:47.828601'
+modified: '2020-11-10T17:52:47.828611'
 state: active
 type: dataset
 tags:
-  - Eeoc Eeo1 Private Employer Eeo1 Survey 2014
+  - Eeoc Eeo5 Elementary Secondary Public Schools Eeo5 Survey 2012
 groups: []
 csv_url: >-
-  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2014/datasets/year14_state_nac3.txt
+  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo5/upload/STATE_SUMMARY_E5_2012.txt
 json_url: ''
 layout: post
 

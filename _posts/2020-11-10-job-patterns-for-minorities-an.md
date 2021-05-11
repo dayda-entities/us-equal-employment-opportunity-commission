@@ -1,16 +1,16 @@
 ---
 title: >-
-  Job Patterns For Minorities And Women In Private Industry, 2009 EEO-1 CBSA
-  Aggregate Report
-created: '2020-11-10T17:52:43.040785'
-modified: '2020-11-10T17:52:43.040793'
+  Job Patterns For Minorities And Women In Private Industry, 2013 EEO-1 State
+  Aggregate by NAICS-2 Report
+created: '2020-11-10T17:52:47.557364'
+modified: '2020-11-10T17:52:47.557374'
 state: active
 type: dataset
 tags:
-  - Eeoc Eeo1 Private Employer Eeo1 Survey 2009
+  - Eeoc Eeo1 Private Employer Eeo1 Survey 2013
 groups: []
 csv_url: >-
-  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2009/datasets/YEAR09_CBSA.txt
+  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2013/datasets/year13_state_nac2.txt
 json_url: ''
 layout: post
 

@@ -1,16 +1,16 @@
 ---
 title: >-
-  Job Patterns for Minorities and Women in State and Local Government, 2009
-  EEO-4 Data Table State by Function Report
-created: '2020-11-10T17:52:43.586931'
-modified: '2020-11-10T17:52:43.586938'
+  Job Patterns For Minorities And Women In Private Industry, 2010 EEO-1 NAICS-5
+  Aggregate Report
+created: '2020-11-10T17:52:44.242545'
+modified: '2020-11-10T17:52:44.242555'
 state: active
 type: dataset
 tags:
-  - Eeoc Eeo4 State And Local Eeo4 Survey 2009
+  - Eeoc Eeo1 Private Employer Eeo1 Survey 2010
 groups: []
 csv_url: >-
-  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo4/2009/datasets/E4_STATE_BY_function_2009.txt
+  https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/2010/upload/2010_EEO-1_Job_Patterns_Data.zip
 json_url: ''
 layout: post
 

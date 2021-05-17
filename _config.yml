@@ -12,7 +12,7 @@ source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
 profile_pic: >-
-  https://upload.wikimedia.org/wikipedia/commons/b/b2/Seal_of_the_United_States_Equal_Employment_Opportunity_Commission.svg
+  https://directory.dayda.org/assets/img/entities/us-equal-employment-opportunity-commission.png
 favicon: /assets/img/favicon.png
 url: 'http://us-equal-employment-opportunity-commission.dayda.org'
 encoding: utf-8

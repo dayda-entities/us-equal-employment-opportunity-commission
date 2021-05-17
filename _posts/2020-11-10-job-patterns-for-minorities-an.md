@@ -1,9 +1,9 @@
 ---
 title: >-
-  Job Patterns For Minorities And Women In Private Industry, 2010 EEO-1 State
-  Aggregate by NAICS-3 Report
-created: '2020-11-10T17:52:44.221700'
-modified: '2020-11-10T17:52:44.221711'
+  Job Patterns For Minorities And Women In Private Industry, 2010 EEO-1 NAICS-3
+  Aggregate Report
+created: '2020-11-10T17:52:44.119217'
+modified: '2020-11-10T17:52:44.119224'
 state: active
 type: dataset
 tags:
